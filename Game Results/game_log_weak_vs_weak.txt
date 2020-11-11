@@ -1,0 +1,912 @@
+GAME #1: 
+Player x: c2
+
+Player o: b3
+
+Player x: a2
+
+Player o: c3
+
+Player x: c1
+
+Player o: a1
+
+Player x: b2
+
+Result: Player x wins
+
+GAME #2: 
+Player x: a2
+
+Player o: b1
+
+Player x: c3
+
+Player o: b3
+
+Player x: c1
+
+Player o: a1
+
+Player x: b2
+
+Player o: c2
+
+Player x: a3
+
+Result: Player x wins
+
+GAME #3: 
+Player x: b3
+
+Player o: a2
+
+Player x: a3
+
+Player o: c3
+
+Player x: a1
+
+Player o: b2
+
+Player x: c1
+
+Player o: b1
+
+Player x: c2
+
+Result: Draw
+
+GAME #4: 
+Player x: a3
+
+Player o: a1
+
+Player x: c2
+
+Player o: a2
+
+Player x: b1
+
+Player o: b3
+
+Player x: c3
+
+Player o: c1
+
+Player x: b2
+
+Result: Draw
+
+GAME #5: 
+Player x: a3
+
+Player o: a1
+
+Player x: c3
+
+Player o: a2
+
+Player x: c2
+
+Player o: b1
+
+Player x: b2
+
+Player o: c1
+
+Result: Player o wins
+
+GAME #6: 
+Player x: a2
+
+Player o: a3
+
+Player x: c3
+
+Player o: b3
+
+Player x: b2
+
+Player o: c1
+
+Player x: a1
+
+Result: Player x wins
+
+GAME #7: 
+Player x: b3
+
+Player o: c1
+
+Player x: b1
+
+Player o: a1
+
+Player x: a3
+
+Player o: c3
+
+Player x: c2
+
+Player o: a2
+
+Player x: b2
+
+Result: Player x wins
+
+GAME #8: 
+Player x: a3
+
+Player o: a2
+
+Player x: b1
+
+Player o: c3
+
+Player x: c1
+
+Player o: b2
+
+Player x: a1
+
+Result: Player x wins
+
+GAME #9: 
+Player x: a3
+
+Player o: c3
+
+Player x: b2
+
+Player o: c1
+
+Player x: a1
+
+Player o: a2
+
+Player x: c2
+
+Player o: b1
+
+Player x: b3
+
+Result: Draw
+
+GAME #10: 
+Player x: b1
+
+Player o: c1
+
+Player x: b3
+
+Player o: a3
+
+Player x: c3
+
+Player o: a1
+
+Player x: c2
+
+Player o: b2
+
+Result: Player o wins
+
+GAME #11: 
+Player x: a2
+
+Player o: b2
+
+Player x: b3
+
+Player o: a3
+
+Player x: c3
+
+Player o: a1
+
+Player x: c2
+
+Player o: c1
+
+Result: Player o wins
+
+GAME #12: 
+Player x: b3
+
+Player o: c3
+
+Player x: b1
+
+Player o: a1
+
+Player x: c1
+
+Player o: c2
+
+Player x: a3
+
+Player o: a2
+
+Player x: b2
+
+Result: Player x wins
+
+GAME #13: 
+Player x: c1
+
+Player o: a1
+
+Player x: b1
+
+Player o: a3
+
+Player x: b3
+
+Player o: b2
+
+Player x: a2
+
+Player o: c2
+
+Player x: c3
+
+Result: Draw
+
+GAME #14: 
+Player x: c3
+
+Player o: c2
+
+Player x: b2
+
+Player o: b3
+
+Player x: c1
+
+Player o: b1
+
+Player x: a3
+
+Result: Player x wins
+
+GAME #15: 
+Player x: c2
+
+Player o: b3
+
+Player x: c3
+
+Player o: b2
+
+Player x: a3
+
+Player o: a2
+
+Player x: c1
+
+Result: Player x wins
+
+GAME #16: 
+Player x: b2
+
+Player o: c3
+
+Player x: b3
+
+Player o: c2
+
+Player x: a3
+
+Player o: a2
+
+Player x: b1
+
+Result: Player x wins
+
+GAME #17: 
+Player x: c1
+
+Player o: c3
+
+Player x: a2
+
+Player o: a3
+
+Player x: b1
+
+Player o: b3
+
+Result: Player o wins
+
+GAME #18: 
+Player x: c2
+
+Player o: a3
+
+Player x: a1
+
+Player o: b1
+
+Player x: b3
+
+Player o: c3
+
+Player x: a2
+
+Player o: b2
+
+Player x: c1
+
+Result: Draw
+
+GAME #19: 
+Player x: a2
+
+Player o: c1
+
+Player x: c3
+
+Player o: b1
+
+Player x: b2
+
+Player o: a3
+
+Player x: c2
+
+Result: Player x wins
+
+GAME #20: 
+Player x: b2
+
+Player o: b3
+
+Player x: a3
+
+Player o: c1
+
+Player x: a2
+
+Player o: c3
+
+Player x: b1
+
+Player o: c2
+
+Result: Player o wins
+
+GAME #21: 
+Player x: a1
+
+Player o: a3
+
+Player x: b2
+
+Player o: c3
+
+Player x: c2
+
+Player o: c1
+
+Player x: a2
+
+Result: Player x wins
+
+GAME #22: 
+Player x: c2
+
+Player o: c1
+
+Player x: b3
+
+Player o: b1
+
+Player x: a3
+
+Player o: c3
+
+Player x: b2
+
+Player o: a1
+
+Result: Player o wins
+
+GAME #23: 
+Player x: a1
+
+Player o: a2
+
+Player x: c1
+
+Player o: b2
+
+Player x: b3
+
+Player o: c3
+
+Player x: c2
+
+Player o: a3
+
+Player x: b1
+
+Result: Player x wins
+
+GAME #24: 
+Player x: c1
+
+Player o: a1
+
+Player x: b3
+
+Player o: b2
+
+Player x: a3
+
+Player o: b1
+
+Player x: c2
+
+Player o: a2
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #25: 
+Player x: b3
+
+Player o: b2
+
+Player x: c1
+
+Player o: a2
+
+Player x: c3
+
+Player o: a1
+
+Player x: b1
+
+Player o: c2
+
+Result: Player o wins
+
+GAME #26: 
+Player x: b2
+
+Player o: a3
+
+Player x: c2
+
+Player o: b3
+
+Player x: a1
+
+Player o: c1
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #27: 
+Player x: a3
+
+Player o: b1
+
+Player x: b2
+
+Player o: a1
+
+Player x: c1
+
+Result: Player x wins
+
+GAME #28: 
+Player x: a2
+
+Player o: b3
+
+Player x: c2
+
+Player o: c1
+
+Player x: a3
+
+Player o: c3
+
+Player x: a1
+
+Result: Player x wins
+
+GAME #29: 
+Player x: b1
+
+Player o: c3
+
+Player x: b3
+
+Player o: a1
+
+Player x: a3
+
+Player o: b2
+
+Result: Player o wins
+
+GAME #30: 
+Player x: b3
+
+Player o: c2
+
+Player x: a1
+
+Player o: c1
+
+Player x: a3
+
+Player o: c3
+
+Result: Player o wins
+
+GAME #31: 
+Player x: c1
+
+Player o: a2
+
+Player x: c2
+
+Player o: b3
+
+Player x: b2
+
+Player o: a3
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #32: 
+Player x: a1
+
+Player o: c1
+
+Player x: a3
+
+Player o: b2
+
+Player x: c2
+
+Player o: b1
+
+Player x: c3
+
+Player o: b3
+
+Result: Player o wins
+
+GAME #33: 
+Player x: c3
+
+Player o: a2
+
+Player x: a1
+
+Player o: c2
+
+Player x: b3
+
+Player o: a3
+
+Player x: c1
+
+Player o: b2
+
+Result: Player o wins
+
+GAME #34: 
+Player x: a1
+
+Player o: a2
+
+Player x: c1
+
+Player o: a3
+
+Player x: b1
+
+Result: Player x wins
+
+GAME #35: 
+Player x: c2
+
+Player o: a3
+
+Player x: c1
+
+Player o: b2
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #36: 
+Player x: c3
+
+Player o: c2
+
+Player x: c1
+
+Player o: b1
+
+Player x: a2
+
+Player o: a3
+
+Player x: a1
+
+Player o: b3
+
+Player x: b2
+
+Result: Player x wins
+
+GAME #37: 
+Player x: a3
+
+Player o: b1
+
+Player x: b3
+
+Player o: a2
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #38: 
+Player x: c1
+
+Player o: c3
+
+Player x: b3
+
+Player o: c2
+
+Player x: b2
+
+Player o: a2
+
+Player x: a1
+
+Player o: a3
+
+Player x: b1
+
+Result: Player x wins
+
+GAME #39: 
+Player x: a1
+
+Player o: a2
+
+Player x: c2
+
+Player o: b2
+
+Player x: a3
+
+Player o: c1
+
+Player x: c3
+
+Player o: b1
+
+Player x: b3
+
+Result: Player x wins
+
+GAME #40: 
+Player x: b2
+
+Player o: a1
+
+Player x: c2
+
+Player o: b3
+
+Player x: b1
+
+Player o: c1
+
+Player x: a2
+
+Result: Player x wins
+
+GAME #41: 
+Player x: b2
+
+Player o: c2
+
+Player x: a3
+
+Player o: b1
+
+Player x: b3
+
+Player o: a2
+
+Player x: c1
+
+Result: Player x wins
+
+GAME #42: 
+Player x: a2
+
+Player o: c2
+
+Player x: c1
+
+Player o: b3
+
+Player x: c3
+
+Player o: a1
+
+Player x: b1
+
+Player o: b2
+
+Player x: a3
+
+Result: Draw
+
+GAME #43: 
+Player x: c3
+
+Player o: c2
+
+Player x: b1
+
+Player o: a2
+
+Player x: b2
+
+Player o: a1
+
+Player x: b3
+
+Result: Player x wins
+
+GAME #44: 
+Player x: b1
+
+Player o: a3
+
+Player x: a1
+
+Player o: b3
+
+Player x: c1
+
+Result: Player x wins
+
+GAME #45: 
+Player x: a3
+
+Player o: c2
+
+Player x: c3
+
+Player o: a1
+
+Player x: b1
+
+Player o: b2
+
+Player x: a2
+
+Player o: b3
+
+Player x: c1
+
+Result: Draw
+
+GAME #46: 
+Player x: a3
+
+Player o: a2
+
+Player x: b3
+
+Player o: b1
+
+Player x: c2
+
+Player o: c3
+
+Player x: c1
+
+Player o: b2
+
+Player x: a1
+
+Result: Draw
+
+GAME #47: 
+Player x: c2
+
+Player o: a2
+
+Player x: b3
+
+Player o: b2
+
+Player x: c1
+
+Player o: b1
+
+Player x: c3
+
+Result: Player x wins
+
+GAME #48: 
+Player x: b1
+
+Player o: a3
+
+Player x: c3
+
+Player o: c2
+
+Player x: b3
+
+Player o: a2
+
+Player x: c1
+
+Player o: b2
+
+Result: Player o wins
+
+GAME #49: 
+Player x: b2
+
+Player o: a2
+
+Player x: c2
+
+Player o: c3
+
+Player x: b3
+
+Player o: b1
+
+Player x: a1
+
+Player o: a3
+
+Player x: c1
+
+Result: Draw
+
+GAME #50: 
+Player x: a3
+
+Player o: a2
+
+Player x: a1
+
+Player o: c2
+
+Player x: b3
+
+Player o: b1
+
+Player x: c3
+
+Result: Player x wins
+Player x wins: 29
+Player o wins: 12
+Draws: 9

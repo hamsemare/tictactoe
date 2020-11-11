@@ -1,0 +1,5 @@
+player x: Player using Negamax and Threat Search (Strong Player) 
+player o: Player using Negamax and Threat Search (Strong Player) 
+Player x wins: 0
+Player o wins: 0
+Draws: 50

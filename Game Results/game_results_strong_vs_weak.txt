@@ -1,0 +1,5 @@
+player x: Player using Negamax and Threat Search (Strong Player) 
+player o: Player using random move selection (Weak Player) 
+Player x wins: 47
+Player o wins: 0
+Draws: 3
